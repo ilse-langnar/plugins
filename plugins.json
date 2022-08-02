@@ -1,0 +1,12 @@
+[
+  {
+    "id": "hello-world",
+    "name": "HelloWorld",
+    "description": "Test plugin for Ilse Langnar's Notebook",
+    "icon": "",
+    "version": "1.0",
+    "author": "Ilse",
+    "url": "https://github.com/ilse-langnar/hello-world"
+  }
+
+]
